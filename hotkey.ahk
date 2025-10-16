@@ -6,7 +6,7 @@ scriptDir := A_ScriptDir
 triggerPath := scriptDir "\.clip.trigger"
 
 ; ^ = Ctrl, ! = Alt, + = Shift
-~^!+Home::
+^!+Home::
 {
     try FileDelete(triggerPath)
     catch
