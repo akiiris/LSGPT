@@ -15,12 +15,12 @@ Lickity Split GPT is a productivity tool for Windows designed to expedite the Ch
 ## Setup
 
 1. Ensure the following files are in the same directory:
-  1. hotkey.ahk
-  2. server_clipboard.py
-  3. start_server_hidden.vbs
+   - hotkey.ahk
+   - server_clipboard.py
+   - start_server_hidden.vbs
 2. Run the following files:
-  1. hotkey.ahk
-  2. start_server_hidden.vbs
+   - hotkey.ahk
+   - start_server_hidden.vbs
 3. You're good to go!
 
 OPTIONAL if you want the program to launch on startup:
@@ -31,4 +31,5 @@ OPTIONAL if you want the program to launch on startup:
 ## Usage
 
 TBD
+
 
