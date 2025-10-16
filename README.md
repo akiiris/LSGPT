@@ -30,6 +30,14 @@ OPTIONAL if you want the program to launch on startup:
  
 ## Usage
 
-TBD
+1. Ctrl + C --> Copy text to clipboard
+2. Ctrl + Alt + Shift + Home --> Use clipboard text as user prompt
+   - The Python server makes an API call and copies the response to your clipboard
+3. (After waiting for LLM to generate response) Ctrl V --> Paste response
 
+So in short...
 
+1. Ctrl + C --> Select user prompt
+2. Ctrl + Alt + Shift + Home --> Generate response
+3. Wait
+4. Ctrl + V --> Paste response
