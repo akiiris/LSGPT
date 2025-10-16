@@ -41,3 +41,7 @@ So in short...
 2. Ctrl + Alt + Shift + Home --> Generate response
 3. Wait
 4. Ctrl + V --> Paste response
+
+## Todo
+
+ - Package everything into a binary to simplify process and remove need for dependencies
